@@ -1,0 +1,147 @@
+@media (max-width: 1250px) {
+  .imgiphone{
+    position: static;
+  }
+}
+
+body{
+  text-align: center;
+font-family: "Montserrat"
+}
+
+h1, h2, h3, h4, h5, h6{
+  font-family: "Montserrat"; font-weight: 900;
+}
+li{
+  margin-left: 15px; margin-right: 15px;
+}
+ul{
+  margin-right: 90px;
+}
+i{
+  margin: 20px 10px;
+}
+
+
+
+#title{  text-align:left;}
+#testimonials{
+  padding: 7% 15%;
+}
+#press{
+  background-color:#ef8172;padding-bottom: 3%;
+}
+#pricing{
+
+  padding: 100px;
+}
+#cta{
+ padding: 7% 15%;
+}
+
+#footer{
+  padding: 5% 7% 2% 7%;
+}
+
+/* CLASSES */
+/* headings */
+.big-heading{
+  font-family: "Montserrat"; font-size: 3.5rem; line-height: 1.5; font-weight: 900; color: white;
+}
+.section-heading{
+font-size: 3rem;
+line-height: 1.5;
+}
+.stickershead{
+  font-family: "Montserrat"; font-weight: bold; font-size: 1.5rem;
+}
+
+/* Sections */
+.colored-section{
+ background-color:#ff4c68;
+ color: white;
+}
+.white-section{
+ background-color:#white;
+}
+.colored-section#testimonials {
+  background-color:#ef8172;
+}
+/* /headings */
+.container-fluid{
+  padding: 3% 15%; overflow: hidden; height: 45rem;
+}
+.col-lg-6 {
+  margin-top: 4.5rem;
+}
+.nav-link{
+  font-size: 1.2rem; font-family: "Montserrat"; font-weight: 300; line-height: 2; margin-bottom: 15%;
+}
+.navbar-brand{
+  font-size: 2.5rem; font-family: "Ubuntu"; font-weight: 500; line-height: 2; color: white; margin-bottom: 2%;
+}
+.imgiphone{
+  width: 20rem; height: 40rem;
+}
+.iphone{
+  transform: rotate(0.07turn); padding:0; width: 20rem; height: 40rem;
+}
+.download-button{
+  margin: 1.5%;
+}
+.stickers{
+  margin: 10rem 10rem;
+}
+
+.stickerstext{
+  color:#8f8f8f;
+}
+.fa-solid{
+  font-size: 4.5rem; margin: 8%; color:#ef8172;
+}
+.fa-solid:hover{
+  font-size:4.5rem; margin: 8%; color:#ff4c68;
+}
+
+.price-text{
+  font-size: 3rem; line-height: 1.5;
+}
+.testimonial-img{
+  border-radius: 100%; width: 10%; margin: 20px;
+}
+
+.press-img{
+  width: 15%; margin: 20px 20px 50px;
+}
+.carousel-item{
+    padding: 7% 15%;
+}
+.DOG2{
+  width: 80%;
+}
+
+.plan{
+  color: grey;
+}
+.pricing-col {
+  padding: 3% 2%;
+}
+
+.rights{
+  color: grey; font-weight: bodler;
+}
+.end{
+  margin: 20px 10px;
+}
+
+.find{
+
+  font-family: "Montserrat"; font-weight: 900; font-size: 3.5rem; line-height: 1.5; color: white;
+}
+.text-emonitial{
+  font-size: 3rem; line-height: 1.5;
+}
+/* TEXT */
+.text3{
+  font-size: 3rem; line-height: 1.5;
+}
